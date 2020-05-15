@@ -1,1 +1,1 @@
-# python-raspi-relay
+# python relay.py
